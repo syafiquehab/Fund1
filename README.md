@@ -1,5 +1,6 @@
 # Fund 1
 
+* The objective of this project is to predict monthly inflow and outflow of Fund 1.
 * Following are the numerical features of Fund 1 data:
 
 |          | Sales | Redemption | Net | Income Distributed | Fund Size | Dividend | FBMKLCI |
